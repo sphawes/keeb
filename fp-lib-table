@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri "C:/Users/Stephen Hawes/Downloads/keyswitches.pretty-master/keyswitches.pretty")(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri "C:/Users/Stephen Hawes/Downloads/Keebio-Parts.pretty-master/Keebio-Parts.pretty")(options "")(descr ""))
+)
